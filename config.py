@@ -10,7 +10,7 @@ COINS = [
 ]
 
 EMA_PERIOD = 200
-CANDLE_BAR = "1H"          # 1H, 4H, 1D, 15m, etc.
+CANDLE_BAR = "2H"          # 1H, 4H, 1D, 15m, etc.
 CANDLES_TO_FETCH = 300     # fetch extra so EMA has time to warm up
 
 POLL_INTERVAL_SECONDS = 60       # check every 1 minute
