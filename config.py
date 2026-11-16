@@ -7,6 +7,7 @@ COINS = [
     "FARTCOIN-USDT",
     "RENDER-USDT",
     "SAHARA-USDT",
+    "ZEC-USDT",
 ]
 
 EMA_PERIOD = 200
